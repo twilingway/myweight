@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "jwtSecret": "myweight",
+  "mongoUrl": "mongodb+srv://aleksei:n47wQx0l7rNjITOm@cluster0.lpzho.mongodb.net/myweight",
+  "baseUrl": "myweight.twiling.ru"
+}

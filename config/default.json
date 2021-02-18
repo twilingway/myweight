@@ -1,0 +1,9 @@
+{
+  "port": 5000,
+  "jwtSecret": "myweight-v0.10",
+  // "mongoUrl": "mongodb+srv://aleksei_dev:pNIVTGHoD2bwlHQk@cluster0.lpzho.mongodb.net/myweight",
+  "mongoUrl": "mongodb://localhost:27017/myweight",
+  "baseUrl": "http://localhost:5000",
+  "telegramToken": "1568627361:AAFFqj14WAwAw6_AB3QRw7veCjdLIxi_amw",
+  "YKassaToken": "381764678:TEST:22329"
+}
